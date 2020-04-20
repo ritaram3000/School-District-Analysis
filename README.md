@@ -1,2 +1,2 @@
-# school-data-analysis
-Module 4 School data analysis using jupyter notebook and conda.
+# School-District-Analysis
+Module 4 School District Analysis using jupyter notebook and conda.
